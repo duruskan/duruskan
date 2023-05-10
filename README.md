@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Samet Duruşkan.
 - I am a sophomore majoring Economics at Bogazici University.
 - I have experience of R programming language, coming from the Introduction to Computing and Mathematical Statistics courses that I have taken.
-- I am trying to learn Python.
+- I am learning Python.
 
 <h2 align="leading">Social Media</h2>
 
