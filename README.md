@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Samet Duruşkan.
 - I am a sophomore majoring Economics at Bogazici University.
 - I have experience of R programming language, coming from the Introduction to Computing and Mathematical Statistics courses that I have taken.
-- I am learning Python.
 
 <h2 align="leading">Social Media</h2>
 
@@ -11,6 +10,7 @@
 <h2 align="leading">Programming Languages</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=r)
+![My Skills](https://skillicons.dev/icons?i=python)
 
 <h2 align="leading">Most Used Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duruskan&layout=compact&langs_count=16&theme=react"/>
